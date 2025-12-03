@@ -1,0 +1,1 @@
+NullPointerException Generation and Handling (Java) This project demonstrates how Java can artificially raise a NullPointerException, handle it using the try/catch construct, and output the exception via the printStackTrace() and toString() methods.
